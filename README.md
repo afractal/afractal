@@ -1,6 +1,6 @@
 ### Project links 🔭
 
-- [personal side](http://afractal.me)
+- [personal site](http://afractal.me)
 - [npm packages](https://www.npmjs.com/~afractal)
 - [github packages](https://github.com/afractal?tab=packages)
 - [nuget packages](https://www.nuget.org/profiles/HermesGjini)
