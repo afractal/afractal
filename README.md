@@ -1,3 +1,5 @@
+<img alt width="320" height="320" src="https://github.com/afractal/afractal/blob/master/patrick%20angry.png">
+
 ### Project links 🔭
 
 - [personal site](http://afractal.me)
