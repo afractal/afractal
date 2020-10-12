@@ -6,8 +6,6 @@
      src="https://github.com/afractal/afractal/blob/master/patrick%20angry.png"
  /> ![Top Langs](https://github-readme-stats-seven-gilt.vercel.app//api/top-langs/?username=afractal&layout=compact)
 
-
-
 ### Project links 🔭
 
 - [personal site](http://afractal.me)
