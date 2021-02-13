@@ -2,10 +2,10 @@
 <img 
      width="320" 
      height="320" 
-     alt="angry patrick"
+     alt="angry_patrick"
      src="https://github.com/afractal/afractal/blob/master/patrick%20angry.png"
- /> ![Top Langs](https://github-readme-stats-seven-gilt.vercel.app//api/top-langs/?username=afractal&layout=compact)
-
+ /> 
+ 
 ### Project links 🔭
 
 - [personal site](http://afractal.me)
@@ -15,5 +15,7 @@
 - [vscode extensions](https://marketplace.visualstudio.com/publishers/afractal)
 - [windows store apps](https://www.microsoft.com/en-us/p/metronome-by-afractal/9njxb114t1dm?activetab=pivot:overviewtab)
 - [product hunt](https://www.producthunt.com/@hermesgjini/made)
-- chrome extensions: ...soon
- 
+- TBA 
+![Top Langs](https://github-readme-stats-seven-gilt.vercel.app//api/top-langs/?username=afractal&layout=compact)
+
+
