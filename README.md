@@ -8,6 +8,7 @@
 - [npm packages](https://www.npmjs.com/~afractal)
 - [nuget packages](https://www.nuget.org/profiles/HermesGjini)
 
+<!---
 ![Top Langs](https://github-readme-stats-seven-gilt.vercel.app//api/top-langs/?username=afractal&layout=compact)
-
+-->
 
